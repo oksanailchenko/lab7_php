@@ -1,2 +1,2 @@
 # lab7_php
-![Application window](https://imgur.com/V7wfBMW)
+![Application window](https://i.imgur.com/V7wfBMW.jpg)
